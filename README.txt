@@ -4,6 +4,8 @@
 *** Assessment Model) and conformance data
 --------------------------------------------------------------
 
+> **Note**: This version has been modified to use CMake for building and is integrated as a submodule in the [audio-quality-assess](https://gitee.com/XePWang/audio-quality-assess) project.
+
 TITLE
 -----
  ITU-T P.563 (05/2004) - Single-ended method for objective
